@@ -1,0 +1,1 @@
+# wp-baseline-fully-automated
