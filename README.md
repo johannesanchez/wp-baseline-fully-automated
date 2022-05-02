@@ -16,5 +16,11 @@ docker run -d --name wordpress \
     -e WORDPRESS_DB_USER=manager \
     -e WORDPRESS_DB_PASSWORD=secret \
     -p 8080:80 \
-    wordpress:4.9.8
+    wordpress:5.9
 
+
+#install click to chat plugin
+#INSTALL ninja forms
+
+Themes:
+Lightning
